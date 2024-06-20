@@ -1,19 +1,23 @@
 [
     {
-        "old": "beef main ingredient",
+        "old": "Beef main ingredient",
         "new": "Beef"
     },
     {
-        "old": "biscuits",
+        "old": "Biscuits",
         "new": "Biscuits & cookies"
     },
     {
-        "old": "bread doughs",
+        "old": "Bread doughs",
         "new": "Bread & doughs"
     },
     {
+        "old": "Carrots",
+        "new": "Carrot"
+    },
+    {
         "old": "Cheap & cheerful",
-        "new": "Budget-friendly please"
+        "new": "Budget-friendly"
     },
     {
         "old": "cheese main ingredient",
@@ -32,15 +36,19 @@
         "new": "Chocolate"
     },
     {
-        "old": "dip",
+        "old": "cocktails",
+        "new": "Drinks"
+    },
+    {
+        "old": "Dip",
         "new": "Dips & salsas"
     },
     {
-        "old": "dressing",
+        "old": "Dressing",
         "new": "Dressings & condiments"
     },
     {
-        "old": "easter treats",
+        "old": "Easter treats",
         "new": "Easter"
     },
     {
@@ -57,7 +65,7 @@
     },
     {
         "old": "Freezer-friendly recipes",
-        "new": "freezer friendly"
+        "new": "Freezer friendly"
     },
     {
         "old": "french",
@@ -72,24 +80,52 @@
         "new": "Greek-style"
     },
     {
+        "old": "Healthy breakfast ideas",
+        "new": "Healthy breakfast"
+    },
+    {
+        "old": "Healthy dinner ideas",
+        "new": "Healthy dinners"
+    },
+    {
+        "old": "Healthy lunch ideas",
+        "new": "Healthy lunches"
+    },
+    {
         "old": "Healthy meals",
-        "new": "healthy"
+        "new": "Healthy"
+    },
+    {
+        "old": "Healthy snack ideas",
+        "new": "Healthy snacks"
+    },
+    {
+        "old": "Healthy soup recipes",
+        "new": "Healthy soups"
     },
     {
         "old": "indian",
         "new": "Indian-style"
     },
     {
+        "old": "italian",
+        "new": "Italian-style"
+    },
+    {
         "old": "jamies ministry of food",
         "new": "Ministry of Food"
     },
     {
-        "old": "Jamie's 5 Ingredient Meals",
-        "new": "Jamies 5 Ingredient Meals"
+        "old": "Jamie\\s 5 Ingredient Meals",
+        "new": "Jamie's 5 Ingredient Meals"
     },
     {
         "old": "japansese",
         "new": "Japanese-style"
+    },
+    {
+        "old": "Juices and smoothies",
+        "new": "Smoothies"
     },
     {
         "old": "lamb main ingredient",
@@ -105,7 +141,7 @@
     },
     {
         "old": "Minced beef",
-        "new": "Mince"
+        "new": "Beef mince"
     },
     {
         "old": "moroccan",
@@ -120,6 +156,10 @@
         "new": "Pasta"
     },
     {
+        "old": "pie",
+        "new": "Pies, tarts & pastries"
+    },
+    {
         "old": "pork main ingredient",
         "new": "Pork"
     },
@@ -128,8 +168,16 @@
         "new": "Quick & easy"
     },
     {
+        "old": "Quick & healthy recipes",
+        "new": "Healthy"
+    },
+    {
         "old": "rice main ingredient",
         "new": "Rice"
+    },
+    {
+        "old": "Sandwiches & wraps",
+        "new": "Sandwiches"
     },
     {
         "old": "Sauces & condiments",
@@ -140,12 +188,12 @@
         "new": "Sides"
     },
     {
-        "old": "slow-cooker",
-        "new": "Low & slow"
-    },
-    {
         "old": "spanish",
         "new": "Spanish-style"
+    },
+    {
+        "old": "Student Recipes",
+        "new": "Student staples"
     },
     {
         "old": "thai",
@@ -181,7 +229,7 @@
     },
     {
         "old": "BEEF STEAK",
-        "new": "steak"
+        "new": "Steak"
     },
     {
         "old": "Get kids cooking",
